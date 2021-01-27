@@ -48,7 +48,7 @@ function handleWorkoutTypeChange(event) {
 
   validateInputs();
 }
-andrew
+
 function validateInputs() {
   let isValid = true;
 
